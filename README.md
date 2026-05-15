@@ -140,11 +140,10 @@ This application is architected to be fully deployable on [Railway](https://rail
 
 ---
 
-## Submission Details
 
-- **Live URL:** [team-task-manager-production-0885.up.railway.app]
-- **Demo Video:** [Insert Link to 2-5 Min Demo Video Here]
-- **GitHub Repository:** [Insert GitHub Repo URL Here]
+- **Live URL:** team-task-manager-production-0885.up.railway.app
+- 
+
 
 ---
 
